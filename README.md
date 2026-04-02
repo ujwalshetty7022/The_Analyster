@@ -82,7 +82,7 @@ analyster/
 └── core engine    → Data processing logic
 ⚙️ Quick Start
 1. Clone the repo
-git clone https://github.com/your-username/analyster.git
+git clone [https://github.com/your-username/analyster.git](https://github.com/ujwalshetty7022/The_Analyster.git)
 cd analyster
 2. Start Backend
 cd backend
